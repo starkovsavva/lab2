@@ -1,4 +1,6 @@
 #include "sum_between_evenodd.h"
+#include "Func_index_first_even.h"
+#include "Func_index_last_odd.h"
 int sum_between_evenodd(int* massive, int count_number_massive) {
 	int iterator = Func_index_first_even(massive,count_number_massive);
 	int summ_abs = 0;
