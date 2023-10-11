@@ -1,4 +1,4 @@
-SOURCES = menu.c Func_index_last_odd.c Func_index_first_even.c sum_before_even_and_after_odd.c sum_before_evenodd.c
+SOURCES = menu.c Func_index_last_odd.c Func_index_first_even.c sum_before_even_and_after_odd.c sum_between_evenodd.c
 OBJECTS = $(SOURCES:.c=.o)
 
 all:menu

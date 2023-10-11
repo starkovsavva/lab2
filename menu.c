@@ -2,7 +2,10 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-
+#include "Func_index_first_even.h"
+#include "Func_index_last_odd.h"
+#include "sum_before_even_and_after_odd.h"
+#include "sum_between_evenodd.h"
 
 
 
