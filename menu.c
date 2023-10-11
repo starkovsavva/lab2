@@ -5,7 +5,7 @@
 #include "Func_index_first_even.h"
 #include "Func_index_last_odd.h"
 #include "sum_before_even_and_after_odd.h"
-#include "sum_between_evenodd.h"
+#include "sum_between_even_odd.h"
 
 
 
