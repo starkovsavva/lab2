@@ -1,6 +1,4 @@
 #include "sum_before_even_and_after_odd.h"
-#include "Func_index_first_even"
-#include "Func_index_last_odd"
 #include <stdlib.h>
 int sum_before_even_and_after_odd(int* massive, int count_number_massive) {
 	int iterator = 0;
